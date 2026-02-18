@@ -77,7 +77,6 @@ We thrive on synergy. By partnering with teams like **RAGE Studio**, we leverage
 
 ### 🌐 Let's Connect
 <p align="left">
-< gardens.linkedin.com/in/neelkanth-patel26 >
   <a href="https://www.linkedin.com/in/neelkanth-patel26"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.gg/rayDjf3RcS"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/neelkanth_patel_26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
