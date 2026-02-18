@@ -1,4 +1,4 @@
-# 👑 Neelkanth Patel
+# Neelkanth Patel
 ### Founder & CEO — Gaming Network Studio 🚀
 
 <p align="left">
