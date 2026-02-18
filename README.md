@@ -66,15 +66,6 @@ We thrive on synergy. By partnering with teams like **RAGE Studio**, we leverage
 
 ---
 
-### 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelkanth-patel26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Neelkanth's Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelkanth-patel26&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/neelkanth-patel26"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
